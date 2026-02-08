@@ -1,0 +1,5 @@
+{
+  "name": "BDI-II NeuroCorrector",
+  "description": "Una herramienta profesional para la aplicación y corrección automática del Inventario de Depresión de Beck (BDI-II).",
+  "requestFramePermissions": []
+}
